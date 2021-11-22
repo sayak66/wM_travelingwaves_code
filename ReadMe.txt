@@ -13,9 +13,9 @@ Main Code:
 
 1. sb_spiral_curl_master2 - inputs LFP data and calculates circular-circular correlations
 
-2. sb_spiral_curl_count - uses output from sb_spiral_curl_master2 and extracts the needed coefficients for further analysis - coefficient files are provided in the dropbox link below as well
+2. sb_spiral_curl_count - uses output from sb_spiral_curl_master2 and extracts the needed coefficients for further analysis - coefficient files are provided in the dropbox link below as well - this also contains a section to plot wave direction trends
 
-3. sb_spiral_count_2D_euclidean - rotating vs planar waves from coefficients obtained and simulated data
+3. sb_spiral_count_2D_euclidean - rotating vs planar waves from coefficients and simulated data
 
 4. sb_spikes - analyzing spike data
 
